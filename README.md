@@ -1,0 +1,4 @@
+macoin
+======
+
+altcoin
